@@ -1,0 +1,108 @@
+div.image img[src="pen_doxy.png"]{
+     width:400px;
+}
+div.image img[src="caligraphy_doxy.png"]{
+     width:400px;
+}
+div.image img[src="blur_tool_doxy.png"]{
+     width:400px;
+}
+div.image img[src="highlighter_doxy.png"]{
+     width:400px;
+}
+div.image img[src="eraser_doxy.png"]{
+     width:400px;
+}
+div.image img[src="spray_can_doxy.png"]{
+     width:400px;
+}
+div.image img[src="chalk_doxy.png"]{
+     width:400px;
+}
+div.image img[src="threshold-0.5-expected.png"]{
+     width:450px;
+}
+div.image img[src="threshold-0.78-expected.png"]{
+     width:450px;
+}
+div.image img[src="blur-5-expected.png"]{
+     width:450px;
+}
+div.image img[src="blur-9-expected.png"]{
+     width:450px;
+}
+div.image img[src="sharpen-5-expected.png"]{
+     width:450px;
+}
+div.image img[src="sharpen-9-expected.png"]{
+     width:450px;
+}
+div.image img[src="edgedetect-expected.png"]{
+     width:650px;
+}
+div.image img[src="quantize-5-expected.png"]{
+     width:450px;
+}
+div.image img[src="quantize-10-expected.png"]{
+     width:450px;
+}
+div.image img[src="saturate-1.44-expected.png"]{
+     width:450px;
+}
+div.image img[src="saturate-1.89-expected.png"]{
+     width:450px;
+}
+div.image img[src="channels-1.44-1.0-1.0-expected.png"]{
+     width:250px;
+}
+div.image img[src="channels-1.0-1.44-1.0-expected.png"]{
+     width:250px;
+}
+div.image img[src="channels-1.0-1.0-1.44-expected.png"]{
+     width:250px;
+}
+div.image img[src="motionblur-ns-5-expected.png"]{
+     width:400px;
+}
+div.image img[src="motionblur-ew-5-expected.png"]{
+     width:400px;
+}
+div.image img[src="motionblur-nwse-5-expected.png"]{
+     width:400px;
+}
+div.image img[src="motionblur-nesw-5-expected.png"]{
+     width:400px;
+}
+div.image img[src="mia-in.png"]{
+     width:400px;
+}
+div.image img[src="mia-pen.png"]{
+     width:400px;
+}
+div.image img[src="mia-mark.png"]{
+     width:400px;
+}
+div.image img[src="mia-blur.png"]{
+     width:400px;
+}
+div.image img[src="mia-edgedetect.png"]{
+     width:400px;
+}
+div.image img[src="mia-sharpen.png"]{
+     width:400px;
+}
+div.image img[src="mia-quantize.png"]{
+     width:400px;
+}
+div.image img[src="mia-threshold.png"]{
+     width:400px;
+}
+div.image img[src="in-example.png"]{
+     width:650px;
+}
+div.image img[src="imagetools_class_structure.jpg"]{
+  width:1500px;
+}
+div.image img[src="Mia_Flashphoto_structure.jpg"]{
+  width:800px;
+}

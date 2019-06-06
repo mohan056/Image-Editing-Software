@@ -1,6 +1,6 @@
 ## Project Directory
 
-This is the project directory for Medical Image editing software.
+This is the project directory for CSCI-3081.
 
 ### CSE Lab Machines (Supported)
 
